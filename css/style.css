@@ -183,7 +183,7 @@ body {
   text-decoration: none;
   line-height: 1.35;
   display: inline-block;
-  border-bottom: 1px solid transparent;
+  border-bottom: 1px solid var(--c-border);
   transition: border-color 0.2s;
 }
 
