@@ -1,5 +1,5 @@
 /* ===================================
-   SOUMITRA THORAT â€” PORTFOLIO
+   SOUMITRA THORAT — PORTFOLIO
    Clean, centered, Rachel Fleming-style
    =================================== */
 
@@ -447,7 +447,7 @@ body {
 }
 
 .cs__task-list li::before {
-  content: 'â€¢';
+  content: '•';
   position: absolute;
   left: 0;
   color: var(--c-text);
@@ -486,7 +486,7 @@ body {
 }
 
 .cs__finding li::before {
-  content: 'â€¢';
+  content: '•';
   position: absolute;
   left: 0;
   color: var(--c-text);
